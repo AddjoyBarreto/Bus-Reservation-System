@@ -8,7 +8,7 @@
 •	As soon as the customer Pays for the ticket he/she will get the Ticket on their email....<br>
 •	And if the customer wants to cancel the ticket then he/she can also do that and again the customer will get a mail in their email account...<br></h3>
 <br>
-<h2><b>admin</b></h2>
+<h2><b>Admin</b></h2>
 <h3>•	the admin is able to add and remove buses from a particular route<br>
 •	increase the price and do some other editing as well…<br>
 •	there will a view panel to view the buses as well as the customer…<br>
