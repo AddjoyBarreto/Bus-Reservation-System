@@ -12,4 +12,8 @@
 <h3>•	the admin is able to add and remove buses from a particular route<br>
 •	increase the price and do some other editing as well…<br>
 •	there will a view panel to view the buses as well as the customer…<br>
-•	we’ll be able to sort the customer according to the busno timimg and so on.<br></h3>
+•	we’ll be able to sort the customer according to the busno timimg and so on.<br>
+•	to send a mail to the customer do the following thing or else you might get an error when you try to purchase a ticket or when your canceling a ticket   
+// http://myaccount.google.com/lesssecureapps
+// Turn on Allow less secure apps on google.
+</h3>
