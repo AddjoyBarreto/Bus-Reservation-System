@@ -1,4 +1,4 @@
-<h1><b>#Bus-Reservation-System</b><h1>
+<h1><b>#Bus-Reservation-System</b></h1>
 <h3>•	This project is bulit using C#/.Net Framework<br>
 •	The DataBase used is Oracle<br>
 •	You can use any DataBase... for example mySql for which the syntax is slightly Different...</h3><br>
